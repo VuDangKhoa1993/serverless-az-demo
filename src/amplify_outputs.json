@@ -1,0 +1,15 @@
+{
+    "auth": {
+        "aws_region": "ap-southeast-1",
+        "brian-pool-name": {
+        "service": "Cognito",
+        "output": {
+          "UserPoolId": "ap-southeast-1_BxneTJff3",
+          "UserPoolName": "brian-pool-name",
+          "AppClientIDWeb": "105uspmg5mdpqnoc1856rr3qne",
+          "AppClientID": "105uspmg5mdpqnoc1856rr3qne"
+        }
+      }
+    }
+  }
+  
