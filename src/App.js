@@ -102,7 +102,6 @@ function App() {
         'name',
         'phone_number',
       ]}
-        socialProviders={['amazon', 'apple', 'facebook', 'google']}
       >
         {({ signOut }) => {
           return (
